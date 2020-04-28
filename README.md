@@ -1,2 +1,1 @@
-# jatanrathodweb
-MY Personal Website!!!
+# MyWebSite
